@@ -1,5 +1,5 @@
 <h1 align="center">
-Null3000
+Lahiru Imesh
 
   
   <h2 align="center">
@@ -8,7 +8,7 @@ Null3000
 
 
 ## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lahiruimesh/lahiruimesh/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
 
