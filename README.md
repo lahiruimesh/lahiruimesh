@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Hi+there!+I'm+Lahiru+Imesh.;IT+Undergraduate+at+University+of+Moratuwa.;Passionate+about+Full-Stack+Development.;Loves+UI%2FUX+Design+and+Graphic+Design!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Hi+there!+I'm+Lahiru+Imesh.;IIT+Undergraduate+at+University+of+Moratuwa.;Passionate+about+Full-Stack+Development.;Loves+UI%2FUX+Design+and+Graphic+Design!" alt="Typing SVG" />
   </a>
 </h2>
 
